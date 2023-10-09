@@ -51,6 +51,7 @@ public class Main {
 
 
 
+
         var totalHour = 640;
         var perWorker = 8;
         var workerCount = totalHour / perWorker;
